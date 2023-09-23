@@ -1,5 +1,5 @@
 {
-  "name": "bookShala",
+  "name": "bookshala",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/guptasajal411/bookshelfly.git"
+    "url": "git+https://github.com/AnubhavRaj980/BookShala.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/guptasajal411/bookshelfly/issues"
+    "url": "https://github.com/AnubhavRaj980/BookShala.git"
   },
-  "homepage": "https://github.com/guptasajal411/bookshelfly#readme",
+  "homepage": "https://github.com/AnubhavRaj980/BookShala.git",
   "dependencies": {
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
@@ -28,6 +28,7 @@
     "express-session": "^1.17.3",
     "md5": "^2.3.0",
     "mongoose": "^6.0.5",
+    "nodemon": "^3.0.1",
     "passport": "^0.6.0",
     "passport-google-oauth20": "^2.0.0"
   }
